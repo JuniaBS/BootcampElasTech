@@ -1,10 +1,10 @@
 # ElasTech — Java e Inteligência Artificial 💛
 
-Repositório dedicado às atividades, exercícios e aprendizados desenvolvidos durante a formação **ElasTech**, uma iniciativa voltada à capacitação de mulheres na área de tecnologia.
+Repositório dedicado às atividades, exercícios e aprendizados desenvolvidos durante o Bootcamp **ElasTech**, uma iniciativa voltada à capacitação de mulheres na área de tecnologia.
 
 ## 🎯 Sobre a formação
 
-O ElasTech é uma formação gratuita e 100% online, com conteúdos de Java e Inteligência Artificial, aprendizado prático e oportunidades de troca com profissionais da área.
+O ElasTech é uma formação, com conteúdos de Java e Inteligência Artificial, aprendizado prático e oportunidades de troca com profissionais da área.
 
 Este repositório tem como objetivo documentar minha jornada de aprendizado, praticar os conceitos apresentados durante o curso e acompanhar minha evolução no desenvolvimento de software.
 
