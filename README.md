@@ -1,6 +1,6 @@
 # ElasTech — Java
 
-Repositório destinado às atividades e aos exercícios desenvolvidos durante o bootcamp ElasTech.
+Repositório destinado às atividades e aos exercícios desenvolvidos durante o Bootcamp ElasTech.
 
 ## Objetivo
 
