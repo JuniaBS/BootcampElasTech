@@ -2,7 +2,7 @@
  Crie uma lista com quatro cidades. Remova a da posição 1 e imprima quantas sobraram.
  */
 
-package Array;
+package ArrayList;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -2,7 +2,7 @@
 - Crie uma lista já preenchida com quatro frutas. Imprima a primeira, a última e quantas frutas tem.
  */
 
-package Array;
+package ArrayList;
 
 import java.util.ArrayList;
 import java.util.Arrays;

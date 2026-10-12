@@ -3,7 +3,7 @@ Crie uma lista com cinco nomes.
 Peça um nome à pessoa e diga se ele está na lista e em qual posição. Se não estiver, avise.
  */
 
-package Array;
+package ArrayList;
 
 import java.util.ArrayList;
 import java.util.Scanner;
