@@ -1,49 +1,83 @@
 # ElasTech — Java e Inteligência Artificial 💛
 
-Repositório dedicado às atividades, exercícios e aprendizados desenvolvidos durante o Bootcamp **ElasTech**, uma iniciativa voltada à capacitação de mulheres na área de tecnologia.
+Repositório dedicado às atividades, aos exercícios e aos projetos desenvolvidos durante o Bootcamp **ElasTech**, uma iniciativa voltada à capacitação de mulheres na área de tecnologia.
 
 ## 🎯 Sobre a formação
 
-O ElasTech é uma formação, com conteúdos de Java e Inteligência Artificial, aprendizado prático e oportunidades de troca com profissionais da área.
+O ElasTech é uma formação que aborda programação com Java, desenvolvimento back-end e Inteligência Artificial, combinando fundamentos teóricos, atividades práticas e desenvolvimento de projetos.
 
-Este repositório tem como objetivo documentar minha jornada de aprendizado, praticar os conceitos apresentados durante o curso e acompanhar minha evolução no desenvolvimento de software.
+Este repositório documenta minha jornada de aprendizado, reunindo exercícios, projetos e aplicações desenvolvidos ao longo do curso, além de registrar minha evolução na área de tecnologia.
 
-## 📚 Conteúdos estudados
+## 📚 Conteúdos da formação
 
-### Fundamentos de Programação
-- Lógica de programação
-- Variáveis e tipos de dados
-- Estruturas condicionais
-- Estruturas de repetição
-- Arrays
-- Manipulação de Strings
+### Fundamentos de Java e Programação
+
+- Lógica de programação e sintaxe Java
+- Variáveis, tipos de dados e estruturas de controle
+- Arrays, Strings, métodos e funções
+- Tratamento de exceções e Collections
 - Programação Orientada a Objetos (POO)
+- Interfaces, abstração e encapsulamento
+- Princípios SOLID e padrões de projeto
+- Streams, Lambdas e programação funcional
+- Git, boas práticas e Clean Code
 
-### Tecnologias e Ferramentas
-- Java
-- Spring Boot
-- Python
-- Inteligência Artificial (IA)
-- Git
-- GitHub
-- IntelliJ IDEA
+### Desenvolvimento Back-end
 
-> **Nota:** Os conteúdos e as tecnologias serão atualizados continuamente ao longo da formação, conforme novos assuntos forem abordados e novas atividades forem desenvolvidas.
+- Arquitetura MVC e APIs REST
+- Spring Boot e desenvolvimento de aplicações Java
+- Autenticação, Spring Security e JWT
+- Documentação de APIs com Swagger/OpenAPI
+- Testes de integração
+- Docker, CI/CD e deploy em nuvem
+- Arquitetura orientada a eventos e mensageria
+
+### Python e Machine Learning
+
+- Fundamentos de Inteligência Artificial
+- IA generativa: conceitos e casos de uso
+- Python aplicado a APIs de Machine Learning
+- FastAPI e Flask
+- Análise de dados com Pandas
+- Manipulação de dados numéricos com NumPy
+- Introdução a modelos de Machine Learning com Scikit-Learn
+
+### Inteligência Artificial Generativa e LLMs
+
+- Large Language Models (LLMs) e Transformers
+- Integração com APIs de IA
+- Integração de LLMs em aplicações Java
+- Spring AI
+- RAG (Retrieval-Augmented Generation)
+- Agentes de IA e automação de tarefas
+- Segurança e ética no uso de LLMs
+- Desenvolvimento de chatbots com IA
+
+*Os conteúdos acima representam o escopo da formação e serão explorados conforme o andamento do bootcamp.*
 
 ## 🗂️ Organização do repositório
 
-As atividades estão organizadas por assunto, facilitando a consulta dos exercícios e o acompanhamento da evolução ao longo do curso.
+Os exercícios e projetos são organizados por assunto, facilitando a consulta dos códigos, a revisão dos conceitos e o acompanhamento da evolução prática durante a formação.
 
 ## 🚀 Objetivos de aprendizagem
 
-- Desenvolver a lógica de programação e os fundamentos de Java.
-- Praticar conceitos de programação por meio de exercícios.
+- Consolidar os fundamentos de programação e Java.
+- Desenvolver o raciocínio lógico por meio de exercícios práticos.
+- Aplicar conceitos de Programação Orientada a Objetos na construção de projetos.
 - Aprofundar conhecimentos em desenvolvimento back-end.
-- Explorar conceitos de Inteligência Artificial.
+- Explorar aplicações de Inteligência Artificial e Machine Learning.
+- Aprender a integrar recursos de IA em aplicações Java.
 - Desenvolver autonomia na resolução de problemas e na construção de soluções tecnológicas.
 
-## 🛠️ Ferramentas utilizadas
+## 🛠️ Ferramentas e tecnologias
 
+- Java
 - IntelliJ IDEA
-- Git
-- GitHub
+- Git e GitHub
+- Python
+- Spring Boot
+- Ferramentas e bibliotecas de Inteligência Artificial, conforme o avanço na formação
+
+## 📌 Status
+
+Formação em andamento. Este repositório será atualizado continuamente com novos exercícios, projetos e aprendizados desenvolvidos ao longo do ElasTech.
