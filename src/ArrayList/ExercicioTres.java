@@ -1,7 +1,7 @@
 /*
 Crie uma lista com quatro nomes. Troque o nome da posição 2 por outro e imprima a lista antes e depois.
  */
-package Array;
+package ArrayList;
 
 import java.util.ArrayList;
 import java.util.Arrays;

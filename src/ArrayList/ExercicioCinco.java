@@ -2,7 +2,7 @@
 Crie uma lista com seis nomes e imprima todos usando um laço, no formato `"0: Ana"`.
 (Dica: i + ": " + comando para pegar posição da lista)
  */
-package Array;
+package ArrayList;
 
 import java.util.ArrayList;
 
