@@ -1,5 +1,12 @@
 package Construtores;
 
+import lombok.Getter;
+import lombok.Setter;
+import lombok.AllArgsConstructor;
+
+@Getter
+@Setter
+@AllArgsConstructor
 public class Agendamento {
 
     private String nomePet;
@@ -10,26 +17,6 @@ public class Agendamento {
     private boolean hidratacao;
     private String observacao;
     private double desconto;
-
-    public Agendamento(
-            String nomePet,
-            String servico,
-            String horario,
-            boolean perfume,
-            boolean laco,
-            boolean hidratacao,
-            String observacao,
-            double desconto) {
-
-        this.nomePet = nomePet;
-        this.servico = servico;
-        this.horario = horario;
-        this.perfume = perfume;
-        this.laco = laco;
-        this.hidratacao = hidratacao;
-        this.observacao = observacao;
-        this.desconto = desconto;
-    }
 
     public void mostrar() {
         System.out.println("Nome do pet: " + nomePet);
