@@ -39,5 +39,10 @@ public class Main {
         thor.mostrar();
         luna.mostrar();
         mel.mostrar();
+
+        thor.setDesconto(20.0);
+
+        System.out.println("Novo desconto do Thor: "
+                + thor.getDesconto() + "%");
     }
 }
