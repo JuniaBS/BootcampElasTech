@@ -6,6 +6,10 @@ out/
 !**/src/test/**/out/
 .kotlin
 
+### Maven ###
+target/
+.m2/
+
 ### Eclipse ###
 .apt_generated
 .classpath
